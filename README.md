@@ -86,9 +86,3 @@ jupyter notebook Text_clustering_Sentence_Transformer.ipynb
 
 ---
 
-## ✅ Example Output
-
-![Sample scatter plot of clustered news headlines](https://raw.githubusercontent.com/manasdhir/News_clustering_transformers/main/clusters_visual.png)
-*A scatter plot of clustered news headlines in 2D space.*
-
----
